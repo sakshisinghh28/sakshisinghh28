@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**sakshisinghh28/sakshisinghh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sakshi Singh, a passionate developer with a love for learning and exploring new technologies. Welcome to my GitHub profile! Here’s a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m an Aspiring Java Developer.
+- ⚡Currently Pursuing a Bachlor's Degree in Computer Science.
+- 😄 Pronouns: She/her.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshisinghh28&show_icons=true&theme=radical)
+
+
+## 📫 Get in Touch
+
+- [LinkedIn]([https://www.linkedin.com/in/sakshisinghh28](https://linkedin.com/in/sakshi-singh-281001s))
+- [LeetCode](https://leetcode.com/u/Sakshisingh28/)
+- [HackerRank](https://www.hackerrank.com/profile/sakshisingh2882)
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate or just chat about technology.
