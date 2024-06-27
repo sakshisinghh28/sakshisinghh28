@@ -4,7 +4,6 @@ I'm Sakshi Singh, a passionate developer with a love for learning and exploring 
 
 - 🔭 I’m an Aspiring Java Developer.
 - ⚡Currently Pursuing a Bachlor's Degree in Computer Science.
-- 😄 Pronouns: She/her.
 
 
 ## 🛠️ Technologies & Tools
