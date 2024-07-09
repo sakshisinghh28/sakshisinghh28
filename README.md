@@ -27,7 +27,7 @@ I'm Sakshi Singh, a passionate developer with a love for learning and exploring 
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://linkedin.com/in/sakshi-singh-281001s)
+- [LinkedIn](www.linkedin.com/in/sakshisinghh28)
 - [LeetCode](https://leetcode.com/u/Sakshisingh28/)
 - [HackerRank](https://www.hackerrank.com/profile/sakshisingh2882)
 
