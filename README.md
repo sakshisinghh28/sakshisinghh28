@@ -2,8 +2,8 @@
 
 I'm Sakshi Singh, a passionate developer with a love for learning and exploring new technologies. Welcome to my GitHub profile! Here’s a bit about me:
 
-- 🔭 I’m an Aspiring Java Developer.
-- ⚡Currently Pursuing a Bachlor's Degree in Computer Science.
+- 🔭 I’m an Aspiring Java Full Stack Developer.
+- ⚡Batch of 2025 Graduate OF BTech in Computer Science and Business Systems.
 
 
 ## 🛠️ Technologies & Tools
